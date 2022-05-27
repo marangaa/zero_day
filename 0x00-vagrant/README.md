@@ -1,0 +1,1 @@
+ssh into the ubuntu vm
